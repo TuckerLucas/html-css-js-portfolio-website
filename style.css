@@ -353,6 +353,10 @@ article .icon {
     cursor: default;
 }
 
+.education-icon {
+    height: 2.5rem;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
